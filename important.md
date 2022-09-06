@@ -1,0 +1,1 @@
+I think it is best to make sure you fully understand because as a professional you will be required to understand how the the code works so that should it happen the code has bugs, you will be able to correct the bug without any hesitation because you would have learned to understand.
